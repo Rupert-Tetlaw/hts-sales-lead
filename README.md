@@ -1,2 +1,3 @@
-# hts-sales-lead
-HireHop Sales Lead plugin
+# HTS Sales Lead Plugin
+
+HireHop JavaScript plugin for the `Sales Lead` job custom field.
